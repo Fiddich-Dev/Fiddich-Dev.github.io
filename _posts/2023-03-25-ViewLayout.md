@@ -6,3 +6,4 @@ title:  "SwiftUI 뷰 레이아웃"
 레이아웃
 ======
 
+![center](../images/center.png)
