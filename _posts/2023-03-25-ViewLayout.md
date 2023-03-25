@@ -1,8 +1,11 @@
 ---
 layout: single
-title:  "SwiftUI 뷰레이아웃"
+title:  "SwiftUI 뷰 레이아웃"
 ---
 
 레이아웃
 ======
 
+![center](../images/center.png)
+
+왜 안바껴
