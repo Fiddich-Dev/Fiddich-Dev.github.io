@@ -12,7 +12,8 @@ title:  "UIKit StoryBoard에서 SwiftUI뷰 띄우기"
 
 ## 2.  그러면 연결된 화면이 생기는데 그 화면을 지운다.
 
-![3](../images/2023-03-26-addSwiftUIView/3.png)
+<!-- ![3](../images/2023-03-26-addSwiftUIView/3.png) -->
+<p align="center"><img src="../images/2023-03-26-addSwiftUIView/3.png" width="50%"></p>
 
 ## 3. Hosting View Controller를 만들어서 Container View와 Control 드래그앤드랍으로 잇는다. 이을때는 Embed를 선택해준다.
 
@@ -31,7 +32,10 @@ title:  "UIKit StoryBoard에서 SwiftUI뷰 띄우기"
 
 ## 5. HostingView Controller의 Class이름을 아까 만든 SwiftUIView이름으로 바꾼다.
 
-![8](../images/2023-03-26-addSwiftUIView/8.png)
+<!-- ![8](../images/2023-03-26-addSwiftUIView/8.png) -->
+<p align="center"><img src="../images/2023-03-26-addSwiftUIView/8.png" width="50%"></p>
+
+
 
 ## 6. Container View를 붙여 넣은 화면에서 어시스턴트를 열고 HostingView Controller에 연결되 있는 화살표를 드래그앤드롭으로 어시스턴트에 연결한다.
 
