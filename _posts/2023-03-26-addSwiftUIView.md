@@ -49,4 +49,5 @@ title:  "UIKit StoryBoard에서 SwiftUI뷰 띄우기"
 
 ## 8. 빌드해서 SwiftUI View가 잘 표시 되는걸 확인할 수 있다.
 
-![11](../images/2023-03-26-addSwiftUIView/11.png)
+<!-- ![11](../images/2023-03-26-addSwiftUIView/11.png) -->
+<p align="center"><img src="../images/2023-03-26-addSwiftUIView/11.png" width="50%"></p>
