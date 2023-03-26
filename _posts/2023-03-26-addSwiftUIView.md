@@ -1,4 +1,8 @@
-# UIKit StoryBoard에서 SwiftUI뷰 띄우기
+---
+layout: single
+title:  "UIKit StoryBoard에서 SwiftUI뷰 띄우기"
+---
+<!-- # UIKit StoryBoard에서 SwiftUI뷰 띄우기 -->
 
 ## 1.  SwiftUI 뷰를 띄울 화면에 Container View를 붙여 넣고 원하는 크기로 조절한다.
 
